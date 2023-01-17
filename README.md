@@ -11,7 +11,3 @@ This application was built using only HTML, CSS, React, Node, Mongo DB
 ## CHALLANGES WHILE MAKING THIS APP
 Challanges I faced while building this app was implimenting the login and sign up forms & authentication in general. 
 
-## THINGS I WANT TO ADD IN THE FUTURE  
- <p>
- 
- </p>

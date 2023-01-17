@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { redirect } from 'react-router-dom'
 import { signUp } from '../../utilities/users-service'
+import { Component } from 'react'
 
 export default function SignUpForm (props) {
   const [credentials, setCredentials] = useState({
